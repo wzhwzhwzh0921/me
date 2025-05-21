@@ -1,4 +1,3 @@
-#![王梓汉照片](https://github.com/user-attachments/assets/1fb2119f-2e9b-4e8d-9c3d-90ca9385528c)
 # Brief Introduction 
 Hi! My name is Wang Zihan. I'm a PhD candidate in Northeastern University (China). 
 I'm interested in recommendation and time series researches. 
